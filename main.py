@@ -39,5 +39,9 @@ def create_student(student: Student):
         "name": student.name,
         "age": student.age,
         "roll": student.roll
-
     }
+
+
+# ------------------------------------------------------------
+# ----------CRUD OPERATIONS------------------------------------
+
